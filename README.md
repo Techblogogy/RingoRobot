@@ -1,5 +1,5 @@
-Beetle Ringo
-============
+Beetle Ringo by RL Arduino
+================
 
 Simple DIY robot named Beetle Ringo. You can find the detailed instruction on [Instructables.com](http://www.instructables.com/id/Beetle-Ringo/).
 
